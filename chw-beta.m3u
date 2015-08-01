@@ -171,6 +171,8 @@ http://kcurth.zz.mu/ch/carga.php?canal=39
 http://kcurth.zz.mu/ch/carga.php?canal=40
 #EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NickJrLatinoamerica
 http://kcurth.zz.mu/ch/carga.php?canal=41
+#EXTINF::-0, [COLOR green]Nuevo:[/COLOR] ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/chunklist.m3u8
 #EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DiscoveryKidsAmericaLatina
 http://kcurth.zz.mu/ch/carga.php?canal=42
 #EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CartoonNetworkLatinoamerica
@@ -386,3 +388,17 @@ http://separador.m3u
 http://4323.live.streamtheworld.com/ADN_SC
 #EXTINF:0, Radio San Cristobal Los Angeles
 http://radiocl.digitalproserver.com/radio/scla/scla.stream/sat.m3u8
+#EXTINF:-1,Radios Chilenas: Nuevo Mundo
+http://184.107.179.162:9364
+#EXTINF:-1,Radios Chilenas: Rockaxis
+http://radio.cl.mediastre.am/rockaxis.aac?type=.flv
+#EXTINF:-1,Radios Chilenas: Disney
+rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
+#EXTINF:-1,Radios Chilenas: FMBox
+http://stream.fmbox.cl:9994
+#EXTINF:-1,Radios Chilenas: Beethoven
+rtmp://radiocl.digitalproserver.com:443/beethovenfm/beethovenfmlive/beethovenfm.stream
+#EXTINF:-1,Radios Chilenas: Radio Corazon
+http://7349.live.streamtheworld.com/CORAZON_SC
+#EXTINF:-1,Radios Chilenas: Pudahuel
+http://4323.live.streamtheworld.com/PUDAHUEL_SC
